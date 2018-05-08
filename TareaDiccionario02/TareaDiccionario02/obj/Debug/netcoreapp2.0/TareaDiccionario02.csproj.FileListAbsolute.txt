@@ -1,0 +1,10 @@
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\obj\Debug\netcoreapp2.0\TareaDiccionario02.csproj.CoreCompileInputs.cache
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\obj\Debug\netcoreapp2.0\TareaDiccionario02.AssemblyInfoInputs.cache
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\obj\Debug\netcoreapp2.0\TareaDiccionario02.AssemblyInfo.cs
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\bin\Debug\netcoreapp2.0\TareaDiccionario02.deps.json
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\bin\Debug\netcoreapp2.0\TareaDiccionario02.runtimeconfig.json
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\bin\Debug\netcoreapp2.0\TareaDiccionario02.runtimeconfig.dev.json
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\bin\Debug\netcoreapp2.0\TareaDiccionario02.dll
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\bin\Debug\netcoreapp2.0\TareaDiccionario02.pdb
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\obj\Debug\netcoreapp2.0\TareaDiccionario02.dll
+E:\CursoBootcamp_Ordenado\TareaDiccionario02\TareaDiccionario02\obj\Debug\netcoreapp2.0\TareaDiccionario02.pdb
